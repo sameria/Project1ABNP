@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1ABNP</string>
+    <string name="address_info">  700 13th St NW, Washington, DC 20005 </string>
+    <string name="phone_info">     202-421-5100     |    202-670-2298    </string>
+    <string name="email_info">info@washingtonpremiergroup.net</string>
+    <string name="hours_operation">Mon - Fri 09.00 - 5:00 </string>
+    <string name="hours_operationLabel">Hours of Operation </string>
+</resources>
